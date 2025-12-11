@@ -8,4 +8,6 @@ I am creating this repo for random mini programs which are very redundant.
   * **Language Used:** Java
 * VimHelloWorld is basically the first program I wrote on vim, editor. Not much but I am trying to learn vim motions.
 * Decimal to Binary is a program to convert decimal number into binary.
-  * * **Language Used:** Java
+  * **Language Used:** Java
+* cliInC is where I am learning to use command line interface inputs and outputs. This is my learning project to implement CLI.
+  * **Language Used:** C
